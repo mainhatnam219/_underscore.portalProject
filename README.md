@@ -4,7 +4,7 @@ A comprehensive mobile application built with Kotlin for managing school course 
 
 ## Features
 
-### 💳 Integrated Payment Gateway
+### Integrated Payment Gateway
 - **ZaloPay Integration**: Secure payment processing for course registration fees
 - **Real-time Payment Verification**: Instant transaction confirmation and status updates
 - **Secure Transaction Processing**: End-to-end encryption for financial data protection
@@ -70,7 +70,7 @@ A comprehensive mobile application built with Kotlin for managing school course 
 3. **Process Payments**: Track and verify payment transactions
 4. **Generate Reports**: Export enrollment data and class rosters
 
-## 🏗Architecture
+## Architecture
 
 The application follows modern Android architecture principles:
 
